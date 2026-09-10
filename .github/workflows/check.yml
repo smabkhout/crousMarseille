@@ -35,9 +35,9 @@ jobs:
           secure: true
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
-          from: BORDEAUX-CROUS Watcher <${{ secrets.MAIL_USERNAME }}>
+          from: MARSEILLE-CROUS Watcher <${{ secrets.MAIL_USERNAME }}>
           to: ${{ secrets.MAIL_USERNAME }}
-          bcc: ${{ secrets.MAIL_TO }}
+          bcc: ${{ vars.MAIL_TO }}
           subject: "CROUS availability changed: ${{ steps.check.outputs.previous }} → ${{ steps.check.outputs.total }}"
           body: |
             New accommodations available in your CROUS search zone!
