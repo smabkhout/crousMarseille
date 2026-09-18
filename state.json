@@ -1,15 +1,6 @@
 {
   "totals": {
-    "47": 1
+    "47": 0
   },
-  "items": [
-    {
-      "tool": 47,
-      "id": 2769,
-      "address": "5 rue Pierre Leca, 13003 Marseille",
-      "rent": 32800,
-      "bedroomCount": 4,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2769"
-    }
-  ]
+  "items": []
 }
