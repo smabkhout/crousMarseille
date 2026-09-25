@@ -1,15 +1,23 @@
 {
   "totals": {
-    "47": 1
+    "47": 2
   },
   "items": [
     {
       "tool": 47,
-      "id": 2162,
-      "address": "10 rue Henri Poincaré -13388 Marseille",
-      "rent": 28482,
+      "id": 2156,
+      "address": "43, rue du 141ème RIA - 13331 Marseille cedex 3",
+      "rent": 25500,
       "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2162"
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2156"
+    },
+    {
+      "tool": 47,
+      "id": 2767,
+      "address": "5 rue Pierre Leca, 13003 Marseille",
+      "rent": 32800,
+      "bedroomCount": 3,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2767"
     }
   ]
 }
