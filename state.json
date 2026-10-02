@@ -1,16 +1,8 @@
 {
   "totals": {
-    "47": 3
+    "47": 4
   },
   "items": [
-    {
-      "tool": 47,
-      "id": 2770,
-      "address": "38 Boulevard Jean Moulin - 13392 Marseille cedex 5",
-      "rent": 27700,
-      "bedroomCount": 1,
-      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2770"
-    },
     {
       "tool": 47,
       "id": 2168,
@@ -26,6 +18,22 @@
       "rent": 25500,
       "bedroomCount": 1,
       "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2156"
+    },
+    {
+      "tool": 47,
+      "id": 2770,
+      "address": "38 Boulevard Jean Moulin - 13392 Marseille cedex 5",
+      "rent": 27700,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/2770"
+    },
+    {
+      "tool": 47,
+      "id": 1165,
+      "address": "171 avenue de Luminy - 13288 Marseille cedex 9",
+      "rent": 35000,
+      "bedroomCount": 1,
+      "url": "https://trouverunlogement.lescrous.fr/tools/47/accommodations/1165"
     }
   ]
 }
